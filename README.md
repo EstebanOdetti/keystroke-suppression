@@ -1,4 +1,4 @@
-# Detección de posibles afecciones cardiovasculares empleando técnicas de machine learning
+# Keystroke suppression 
 
 ![Generic badge](https://img.shields.io/badge/made%20with-octave%206.2.0-blue) 
 
